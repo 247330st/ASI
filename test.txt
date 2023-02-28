@@ -1,0 +1,25 @@
+2
+3
+10
+7
+0 0 2 2 0 1 0 1 0 2 0 2 0 2
+2 1 1 0 1 1 2 1 0 0 0 0 1 0
+0 0 0 1 0 2 0 0 2 2 0 2 0 2
+1 2 0 1 0 1 2 0 1 1 1 1 2 1
+0 1 1 2 0 1 0 2 0 0 1 0 1 0
+0 2 1 0 0 1 0 0 1 2 0 1 2 2
+0 1 0 1 2 0 1 1 0 1 2 1 1 1
+2 1 0 2 2 0 1 0 1 0 1 0 0 0
+1 0 1 1 2 0 2 0 0 1 1 2 0 2
+2 1 0 2 1 2 1 2 1 1 0 0 1 0
+
+
+
+liczba zmian
+liczba pracowników na zmianie
+liczba dostępnych pracowników
+liczba dni 
+dysp[]
+perm_wynik = liczba pracowników * liczba zmian * liczba dni
+-> wyznaczyć dzień i zmianę danego pracownika
+-> na podstawie pozycji wyznaczyć preferencję na danej zmianie danego dnia 
